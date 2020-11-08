@@ -1,0 +1,247 @@
+﻿class_level_feature_id,level_number,class_id,feature_name
+0,1,0,Rage
+1,1,0,Unarmored Defense
+2,2,0,Danger Sense
+3,2,0,Reckless Attack
+4,3,0,Primal Path
+5,4,0,Ability Score Improvement
+6,5,0,Extra Attack
+7,5,0,Fast Movement
+8,6,0,Path Feature
+9,7,0,Feral Instinct
+10,8,0,Ability Score Improvement
+11,9,0,Brutal Critical
+12,10,0,Path Feature
+13,11,0,Relentless Rage
+14,12,0,Ability Score Improvement
+15,13,0,Brutal Critical
+16,14,0,Path Feature
+17,15,0,Persistent Rage
+18,16,0,Ability Score Improvement
+19,17,0,Brutal Critical
+20,18,0,Indomitable Might
+21,19,0,Ability Score Improvement
+22,20,0,Primal Champion
+23,1,1,Bardic Inspiration
+24,1,1,Spellcasting
+25,2,1,Jack of All Trades
+26,2,1,Song of Rest
+27,3,1,Bard College
+28,3,1,Expertise
+29,4,1,Ability Score Improvement
+30,5,1,Bardic Inspiration
+31,5,1,Font of Inspiration
+32,6,1,Countercharm
+33,6,1,Bard College Feature
+34,8,1,Ability Score Improvement
+35,9,1,Song of Rest
+36,10,1,Bardic Inspiration
+37,10,1,Expertise
+38,10,1,Magical Secrets
+39,12,1,Ability Score Improvement
+40,13,1,Song of Rest
+41,14,1,Magical Secrets
+42,14,1,Bard College Feature
+43,15,1,Bardic Inspiration
+44,16,1,Ability Score Improvement
+45,17,1,Song of Rest
+46,18,1,Magical Secrets
+47,19,1,Ability Score Improvement
+48,20,1,Superior Inspiration
+49,1,2,Spellcasting
+50,1,2,Divine Domain
+51,2,2,Channel Divinity
+52,2,2,Divine Domain Feature
+53,4,2,Ability Score Improvement
+54,5,2,Destroy Undead
+55,6,2,Channel Divinity
+56,6,2,Divine Domain Feature
+57,8,2,Ability Score Improvement
+58,8,2,Destroy Undead
+59,8,2,Divine Domain Feature
+60,10,2,Divine Intervention
+61,11,2,Destroy Undead
+62,12,2,Ability Score Improvement
+63,14,2,Destroy Undead
+64,16,2,Ability Score Improvement
+65,17,2,Destroy Undead
+66,17,2,Divine Domain Feature
+67,18,2,Channel Divinity
+68,19,2,Ability Score Improvement
+69,20,2,Divine Intervention Improvement
+70,1,3,Druidic
+71,1,3,Spellcasting
+72,2,3,Wild Shape
+73,2,3,Druid Circle
+74,4,3,Wild Shape Improvement
+75,4,3,Ability Score Improvement
+76,6,3,Druid Circle Feature
+77,8,3,Wild Shape Improvement
+78,8,3,Ability Score Improvement
+79,10,3,Druid Circle Feature
+80,12,3,Ability Score Improvement
+81,14,3,Druid Circle Feature
+82,16,3,Ability Score Improvement
+83,18,3,Timeless Body
+84,18,3,Beast Spells
+85,19,3,Ability Score Improvement
+86,20,3,Archdruid
+87,1,4,Fighting Style
+88,1,4,Second Wind
+89,2,4,Action Surge
+90,3,4,Martial Archetype
+91,4,4,Ability Score Improvement
+92,5,4,Extra Attack
+93,6,4,Ability Score Improvement
+94,7,4,Martial Archetype Feature
+95,8,4,Ability Score Improvement
+96,9,4,Indomitable
+97,10,4,Martial Archetype Feature
+98,11,4,Extra Attack
+99,12,4,Ability Score Improvement
+100,13,4,Indomitable
+101,14,4,Ability Score Improvement
+102,15,4,Martial Archetype Feature
+103,16,4,Ability Score Improvement
+104,17,4,Action Surge
+105,17,4,Indomitable
+106,18,4,Martial Archetype Feature
+107,19,4,Ability Score Improvement
+108,20,4,Extra Attack
+109,1,5,Unarmored Defense
+110,1,5,Martial Arts
+111,2,5,Ki
+112,3,5,Unarmored Movement
+113,3,5,Deflect Missiles
+114,4,5,Monastic Tradition
+115,4,5,Ability Score Improvement
+116,5,5,Slow Fall
+117,5,5,Extra Attack
+118,6,5,Ki-Empowered Strikes
+119,6,5,Monastic Tradition Feature
+120,7,5,Evasion
+121,7,5,Stillness of Mind
+122,8,5,Ability Score Improvement
+123,9,5,Unarmored Movement Improvement
+124,10,5,Purity of Body
+125,11,5,Monastic Tradition Feature
+126,12,5,Ability Score Improvement
+127,13,5,Tongue of the Sun and Moon
+128,14,5,Diamond Soul
+129,15,5,Timeless Body
+130,16,5,Ability Score Improvement
+131,17,5,Monastic Tradition Feature
+132,18,5,Empty Body
+133,19,5,Ability Score Improvement
+134,20,5,Perfect Self
+135,1,6,Divine Sense
+136,1,6,Lay on Hands
+137,2,6,Divine Smite
+138,2,6,Fighting Style
+139,2,6,Spellcasting
+140,3,6,Divine Health
+141,3,6,Sacred Oath
+142,4,6,Ability Score Improvement
+143,5,6,Extra Attack
+144,6,6,Aura of Protection
+145,7,6,Sacred Oath Feature
+146,8,6,Ability Score Improvement
+147,10,6,Aura of Courage
+148,11,6,Improved Divine Smite
+149,12,6,Ability Score Improvement
+150,14,6,Cleansing Touch
+151,15,6,Sacred Oath Feature
+152,16,6,Ability Score Improvement
+153,18,6,Aura Improvements
+154,19,6,Ability Score Improvement
+155,20,6,Sacred Oath Feature
+156,1,7,Favored Enemy
+157,1,7,Natural Explorer
+158,2,7,Fighting Style
+159,2,7,Spellcasting
+160,3,7,Ranger Archetype
+161,3,7,Primeval Awareness
+162,4,7,Ability Score Improvement
+163,5,7,Extra Attack
+164,6,7,Favored Enemy and Natural Explorer Improvements
+165,7,7,Ranger Archetype Feature
+166,8,7,Ability Score Improvement
+167,8,7,Land's Stride
+168,10,7,Hide in Plain Sight
+169,10,7,Natural Explorer Improvement
+170,11,7,Ranger Archetype Feature
+171,12,7,Ability Score Improvement
+172,14,7,Vanish
+173,14,7,Favored Enemy Improvement
+174,15,7,Ranger Archetype Feature
+175,16,7,Ability Score Improvement
+176,18,7,Feral Senses
+177,19,7,Ability Score Improvement
+178,20,7,Foe Slayer
+179,1,8,Expertise
+180,1,8,Sneak Attack
+181,1,8,Thieves' Cant
+182,2,8,Cunning Action
+183,3,8,Roguish Archetype
+184,4,8,Ability Score Improvement
+185,5,8,Uncanny Dodge
+186,6,8,Epertise
+187,7,8,Evasion
+188,8,8,Ability Score Improvement
+189,9,8,Roguish Archetype Feature
+190,10,8,Ability Score Improvement
+191,11,8,Reliable Talent
+192,12,8,Ability Score Improvement
+193,13,8,Roguish Archetype Feature
+194,14,8,Blindsense
+195,15,8,Slippery Mind
+196,16,8,Ability Score Improvement
+197,17,8,Roguish Archetype Feature
+198,18,8,Elusive
+199,19,8,Ability Score Improvement
+200,20,8,Stroke of Luck
+201,1,9,Spellcasting
+202,1,9,Sorcerous Origin
+203,2,9,Font of Magic
+204,3,9,Metamagic
+205,4,9,Ability Score Improvement
+206,6,9,Sorcerous Origin Feature
+207,8,9,Ability Score Improvement
+208,10,9,Metamagic
+209,12,9,Ability Score Improvement
+210,14,9,Sorcerous Origin Feature
+211,16,9,Ability Score Improvement
+212,17,9,Metamagic
+213,18,9,Sorcerous Origin Feature
+214,19,9,Ability Score Improvement
+215,20,9,Sorcerous Restoration
+216,1,10,Pact Magic
+217,1,10,Otherworldy Patron
+218,2,10,Eldritch Invocations
+219,3,10,Pact Boon
+220,4,10,Ability Score Improvement
+221,6,10,Otherwordly Patron Feature
+222,8,10,Ability Score Improvement
+223,10,10,Otherwordly Patron Feature
+224,11,10,Mystic Arcanum (6th Level)
+225,12,10,Ability Score Improvement
+226,13,10,Mystic Arcanum (7th Level)
+227,14,10,Otherwordly Patron Feature
+228,15,10,Mystic Arcanum (8th Level)
+229,16,10,Ability Score Improvement
+230,17,10,Mystic Arcanum (9th Level)
+231,19,10,Ability Score Improvement
+232,20,10,Eldritch Master
+233,1,11,Spellcasting
+234,1,11,Arcane Recovery
+235,2,11,Arcane Tradition
+236,4,11,Ability Score Improvement
+237,6,11,Arcane Tradition feature
+238,8,11,Ability Score Improvement
+239,10,11,Arcane Tradition feature
+240,12,11,Ability Score Improvement
+241,14,11,Arcane Tradition feature
+242,16,11,Ability Score Improvement
+243,18,11,Spell Mastery
+244,19,11,Ability Score Improvement
+245,20,11,Signature Spell

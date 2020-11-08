@@ -1,0 +1,43 @@
+﻿class_weapon_prof_id,class_id,weapon
+0,0,Simple Weapons
+1,0,Martial Weapons
+2,1,Simple Weapons
+3,1,Hand Crossbows
+4,1,Longswords
+5,1,Rapiers
+6,1,Shortswords
+7,2,Simple Weapons
+8,3,Clubs
+9,3,Daggers
+10,3,Darts
+11,3,Javelins
+12,3,Maces
+13,3,Quarterstaffs
+14,3,Scimitars
+15,3,Sickles
+16,3,Slings
+17,3,Spears
+18,4,Simple Weapons
+19,4,Martial Weapons
+20,5,Simple Weapons
+21,5,Shortswords
+22,6,Simple Weapons
+23,6,Martial Weapons
+24,7,Simple Weapons
+25,7,Martial Weapons
+26,8,Simple Weapons
+27,8,Hand Crossbows
+28,8,Longswords
+29,8,Rapiers
+30,8,Shortswords
+31,9,Daggers
+32,9,Darts
+33,9,Slings
+34,9,Quarterstaffs
+35,9,Light Crossbows
+36,10,Simple Weapons
+37,11,Daggers
+38,11,Darts
+39,11,Slings
+40,11,Quarterstaffs
+41,11,Light Crossbows
