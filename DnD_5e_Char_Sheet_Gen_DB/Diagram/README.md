@@ -8,4 +8,6 @@ Britt designed the tables for Backgrounds and her and Wes filled in the data tog
 
 Wes designed the Class tables (Not Spells) and filled the data for all them
 
-Christria is in progress of designing the Spell table and filling the data
+Christria designed the Spell table and filling the data
+
+Wes added all empty tables for the sake of creating the Schema diagram
