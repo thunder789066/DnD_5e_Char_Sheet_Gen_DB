@@ -10,4 +10,4 @@ Wes designed the Class tables (Not Spells) and filled the data for all them
 
 Christria designed the Spell table and filling the data
 
-Wes added all empty tables for the sake of creating the Schema diagram
+Wes added all empty tables using CREATE TABLE statements in SQL for the sake of creating the Schema diagram
