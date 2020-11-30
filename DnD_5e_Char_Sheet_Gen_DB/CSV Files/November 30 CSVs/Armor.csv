@@ -1,0 +1,14 @@
+armor_id,armor_name,armor_type,ac,strength,weight
+0,Padded,Light,11+dex,0,8
+1,Leather,Light,11+dex,1,10
+2,Stuffed Leather,Light,12+dex,1,13
+3,Hide,Medium,12+dex(max 2),1,12
+4,Chain Shirt,Medium,13+dex(max 2),1,20
+5,Scale Mail,Medium,14+dex(max 2),0,45
+6,Breastplate,Medium,14+dex(max 2),1,20
+7,Half plate,Medium,15+dex(max 2),0,40
+8,Ring Mail,Heavy,14,0,40
+9,Chain Mail,Heavy,16,0,55
+10,Splint,Heavy,17,0,60
+11,Plate,Heavy,18,0,65
+12,Shield,Shield,2,1,6
